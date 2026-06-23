@@ -1,0 +1,15 @@
+Test Case ID: TC - 002
+
+Title:
+Verify the user can not login with invalid password
+
+Preconditions:
+User is on login page
+
+Steps:
+1. Enter standard_user
+2. Enter secret_sauce_me
+3. Click Login
+
+Expected Result:
+User is not logged in and gets an error message for invalid credentials
