@@ -1,0 +1,15 @@
+Test Case ID: TC-005
+
+Title:
+Verify user can not log in with a empty password
+
+Preconditions:
+User is on login page
+
+Steps:
+1. Enter standard_user
+2. Leave the password emtpy
+3. Click Login
+
+Expected Result:
+User is not logged in and gets a error message for invalid loggin credentials
