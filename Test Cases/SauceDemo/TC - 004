@@ -1,0 +1,15 @@
+Test Case ID: TC-004
+
+Title:
+Verify user can not login with missing username
+
+Preconditions:
+User is on login page
+
+Steps:
+1. Leave Username empty
+2. Enter secret_sauce
+3. Click Login
+
+Expected Result:
+User is not logged in and get an error message for invalid credentials
