@@ -1,15 +1,19 @@
 Test Case ID: TC-002
 
 Title:
-Verify the user can not login with invalid password
+Verify user cannot log in with an invalid password
 
 Preconditions:
-User is on login page
+1. User is on the Sauce Demo login page.
+2. User has a valid username.
 
-Steps:
-1. Enter standard_user
-2. Enter secret_sauce_me
-3. Click Login
+Test Steps:
+1. Enter "standard_user" into the Username field.
+2. Enter "secret_sauce_me" into the Password field.
+3. Click the Login button.
 
 Expected Result:
-User is not logged in and gets an error message for invalid credentials
+1. User remains on the login page.
+2. User is not authenticated.
+3. Access to the Inventory page is denied.
+4. An error message indicating invalid credentials is displayed.
