@@ -1,0 +1,15 @@
+Test Case ID: TC-001
+
+Title:
+Verify user can login with valid credentials
+
+Preconditions:
+User is on login page
+
+Steps:
+1. Enter standard_user
+2. Enter secret_sauce
+3. Click Login
+
+Expected Result:
+User is successfully logged in and redirected to the inventory page.
