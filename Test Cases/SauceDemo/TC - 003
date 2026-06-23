@@ -12,4 +12,4 @@ Steps:
 3. Click Login
 
 Expected Result:
-User is successfully logged in and redirected to the inventory page.
+User is not logged in and gets an error message for invalid credentials
