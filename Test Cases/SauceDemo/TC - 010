@@ -1,4 +1,4 @@
-Test Case ID: TC-009
+Test Case ID: TC-010
 
 Title:
 Verify user cannot log in with an invalid username containing a special character at the beginning
