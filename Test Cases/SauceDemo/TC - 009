@@ -1,7 +1,7 @@
 Test Case ID: TC-009
 
 Title:
-Verify user cannot log in with an invalid username containing a special character
+Verify user cannot log in with an invalid username containing a special character at the end
 
 Preconditions:
 1. User is on the Sauce Demo login page.
