@@ -1,7 +1,7 @@
 Total Test Cases Executed: 15
-Passed: 14
-Failed: 1
+Passed: 15
+Failed: 0
 Blocked: 0
 
 Testing completed successfully.
-Login functionality did not behave as expected for all tested scenarios.
+Login functionality behaved as expected for all tested scenarios.
