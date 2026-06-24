@@ -5,4 +5,6 @@
 | TC-003       | Invalid Username | Pass   |
 | TC-004       | Blank Username   | Pass   |
 | TC-005       | Blank Password   | Pass   |
-| TC-006       | Invalid Password | Pass   |
+| TC-006       | Invalid Username | Pass   |
+| TC-007       | Invalid Password | Pass   |
+| TC-008       |
