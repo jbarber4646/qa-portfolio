@@ -1,7 +1,7 @@
 Test Case ID: TC-013
 
 Title:
-Verify user can log in with valid credentials
+Verify locked out user cannot access the application
 
 Preconditions:
 1. User is on the Sauce Demo login page.
@@ -13,6 +13,7 @@ Test Steps:
 3. Click the Login button.
 
 Expected Result:
-1. User is successfully authenticated.
-2. User is redirected to the Inventory page.
-3. Inventory items are displayed.
+1. User remains on the login page.
+2. User is not authenticated.
+3. Access to the Inventory page is denied.
+4. Error message "Epic sadface: Sorry, this user has been locked out." is displayed.
