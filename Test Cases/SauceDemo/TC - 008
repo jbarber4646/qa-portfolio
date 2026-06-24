@@ -1,0 +1,18 @@
+Test Case ID: TC-008
+
+Title:
+Verify user can log in with valid credentials and pressing the Enter button instead of clicking log in
+
+Preconditions:
+1. User is on the Sauce Demo login page.
+2. User has a valid username and password.
+
+Test Steps:
+1. Enter "standard_user" into the Username field.
+2. Enter "secret_sauce" into the Password field.
+3. Press the Enter button.
+
+Expected Result:
+1. User is successfully authenticated.
+2. User is redirected to the Inventory page.
+3. Inventory items are displayed.
