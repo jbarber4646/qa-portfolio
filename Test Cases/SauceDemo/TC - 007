@@ -1,11 +1,11 @@
 Test Case ID: TC-007
 
 Title:
-Verify user cannot log in with a username that is all spaces
+Verify user cannot log in with a password that is all spaces
 
 Preconditions:
 1. User is on the Sauce Demo login page.
-2. User has a valid password.
+2. User has a valid username.
 
 Test Steps:
 1. Enter "standard_user" into the Username field.
