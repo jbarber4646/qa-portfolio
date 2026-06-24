@@ -7,4 +7,5 @@
 | TC-005       | Blank Password   | Pass   |
 | TC-006       | Invalid Username | Pass   |
 | TC-007       | Invalid Password | Pass   |
-| TC-008       |
+| TC-008       | Login With Enter | Pass   |
+| TC-009       |
