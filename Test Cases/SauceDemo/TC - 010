@@ -1,0 +1,19 @@
+Test Case ID: TC-009
+
+Title:
+Verify user cannot log in with an invalid username containing a special character at the beginning
+
+Preconditions:
+1. User is on the Sauce Demo login page.
+2. User has a valid password.
+
+Test Steps:
+1. Enter "#performance_glitch_user" into the Username field.
+2. Enter "secret_sauce" into the Password field.
+3. Click the Login button.
+
+Expected Result:
+1. User remains on the login page.
+2. User is not authenticated.
+3. Access to the Inventory page is denied.
+4. An error message saying "Epic sadface: Username and password do not match any user in this service" is displayed.
