@@ -15,4 +15,4 @@ Expected Result:
 1. User remains on the login page.
 2. User is not authenticated.
 3. Access to the Inventory page is denied.
-4. An error message saying "Epic sadface: Username and password do not match any user in this service" is displayed.
+4. An error message saying "Epic sadface: Password is required" is displayed.
