@@ -8,4 +8,5 @@
 | TC-006       | Invalid Username | Pass   |
 | TC-007       | Invalid Password | Pass   |
 | TC-008       | Login With Enter | Pass   |
-| TC-009       |
+| TC-009       | Invalid Username | Pass   |
+| TC-010       |
