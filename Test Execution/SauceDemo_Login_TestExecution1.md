@@ -12,4 +12,6 @@
 | TC-010       | Invalid Username | Pass   |
 | TC-011       | Invalid Password | Pass   |
 | TC-012       | Invalid Password | Pass   |
-| TC-013       |
+| TC-013       | Valid Login      | Fail   |
+| TC-014       | Valid Login      | Pass   |
+| TC-015       | Valid Login      | Pass   |
