@@ -17,4 +17,4 @@ Test Steps:
 1. Remove items from the cart one at a time.
 
 Expected Result:
-1. Cart icon in top right will display correct number of items in cart
+1. Cart badge decreases by one after each item is removed and accurately reflects the remaining items.
