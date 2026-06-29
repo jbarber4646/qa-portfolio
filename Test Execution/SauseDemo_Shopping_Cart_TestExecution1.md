@@ -5,8 +5,8 @@
 |TC-004	       |Cart count updates |
 |TC-005	       |Cart count updates |
 |TC-006	       |Cart count updates |
-|TC-007	       |                	 |
-|TC-008	       |                	 |
+|TC-007	       |Item Details       |
+|TC-008	       |Item Details       |
 |TC-009	       |                	 |
 |TC-010	       |                	 |
 |TC-011	       |                	 |
