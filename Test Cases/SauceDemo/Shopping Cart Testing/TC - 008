@@ -18,4 +18,4 @@ Test Steps:
 2. Click to go back to the proudct page
 
 Expected Result:
-1. Items remain in the cart while navigating between pages.
+1. Previously added items remain in the cart and the cart badge count remains unchanged after navigating between the Products and Cart pages.
