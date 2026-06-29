@@ -8,9 +8,7 @@ Preconditions:
 2. User in on the Cart page with items in the cart.
 
 Test Steps:
-1. Choose an item on the Cart page and click Remove
-2. Choose a second item on the Cart page and click Remove
-3. Choose a third item on the Cart page and click Remove
+1. Remove items from the cart one at a time.
 
 Expected Result:
 1. Cart icon in top right will display correct number of items in cart
