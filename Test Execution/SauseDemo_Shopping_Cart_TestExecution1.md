@@ -7,7 +7,7 @@
 |TC-006	       |Cart count updates |
 |TC-007	       |Item Details       |
 |TC-008	       |Item Details       |
-|TC-009	       |                	 |
+|TC-009	       |Checkout Button    |
 |TC-010	       |                	 |
 |TC-011	       |                	 |
 |TC-012	       |                	 |
