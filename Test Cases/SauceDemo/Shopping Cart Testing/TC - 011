@@ -1,0 +1,14 @@
+Test Case ID: TC-011
+
+Title:
+Verify the Filter dropdown box opens when clicking the dropdown arrow
+
+Preconditions:
+1. User is successfully signed in.
+2. User in on the Product page.
+
+Test Steps:
+1. Click the the dropdown arrow in the Filter box in the upper right corner
+
+Expected Result:
+1. Dropdown box opens
