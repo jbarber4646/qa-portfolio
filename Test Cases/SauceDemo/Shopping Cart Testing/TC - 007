@@ -3,6 +3,12 @@ Test Case ID: TC-007
 Title:
 Verify item details remain correct in cart
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Cart page with items in the cart.
