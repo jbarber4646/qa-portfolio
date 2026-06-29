@@ -1,5 +1,5 @@
 |Test Case ID	 |Description	       |Result
-|TC-001	       |           	       |
+|TC-001	       |Add to Cart   	   |
 |TC-002	       |                	 |
 |TC-003	       |                	 |
 |TC-004	       |              	   |
