@@ -17,4 +17,4 @@ Test Steps:
 1. Add multiple items to the cart.
 
 Expected Result:
-1. Cart icon in top right will display correct number of items in cart
+Cart badge updates immediately to reflect the total number of items added.
