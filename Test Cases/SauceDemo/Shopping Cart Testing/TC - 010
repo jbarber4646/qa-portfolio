@@ -4,10 +4,10 @@ Title:
 Verify Checkout button is not clickable when cart is empty
 
 Priority:
-
+Medium
 
 Type:
-
+Functional
 
 Preconditions:
 1. User is successfully signed in.
