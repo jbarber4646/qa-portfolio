@@ -3,7 +3,7 @@
 |TC-002	       |Add to Cart        |
 |TC-003	       |Remove from Cart   |
 |TC-004	       |Cart count updates |
-|TC-005	       |              	   |
+|TC-005	       |Cart count updates |
 |TC-006	       |                	 |
 |TC-007	       |                	 |
 |TC-008	       |                	 |
