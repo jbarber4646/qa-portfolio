@@ -4,10 +4,10 @@ Title:
 Verify cart persists after navigating between pages
 
 Priority:
-
+High
 
 Type:
-
+Functional
 
 Preconditions:
 1. User is successfully signed in.
