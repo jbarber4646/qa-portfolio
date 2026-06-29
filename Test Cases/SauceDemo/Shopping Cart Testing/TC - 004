@@ -8,9 +8,7 @@ Preconditions:
 2. User in on the Product page.
 
 Test Steps:
-1. Choose an item on the Product page and click Add to Cart
-2. Choose a second item on the product page and click Add to Cart
-3. Choose a third item on the product page and click Add to Cart
+1. Add multiple items to the cart.
 
 Expected Result:
 1. Cart icon in top right will display correct number of items in cart
