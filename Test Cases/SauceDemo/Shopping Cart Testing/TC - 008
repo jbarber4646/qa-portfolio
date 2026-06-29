@@ -3,6 +3,12 @@ Test Case ID: TC-008
 Title:
 Verify cart persists after navigating between pages
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Product page with items in the cart.
