@@ -11,4 +11,4 @@ Test Steps:
 1. Verify checkout button appears when items exist
 
 Expected Result:
-1. Checkout button is clickable with items in the cart
+1. Verify Checkout button is displayed
