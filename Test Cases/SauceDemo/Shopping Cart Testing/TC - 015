@@ -18,4 +18,4 @@ Test Steps:
 2. Select Name(A to Z)
 
 Expected Result:
-1. Products are rearranged in order of price from highest to lowest
+1. Products are rearranged by Name in alphabetical order
