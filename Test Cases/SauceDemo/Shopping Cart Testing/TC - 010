@@ -11,7 +11,7 @@ UI
 
 Preconditions:
 1. User is successfully signed in.
-2. User in on the Product page.
+2. User is on the Products page.
 
 Test Steps:
 1. Click the the dropdown arrow in the Filter box in the upper right corner
