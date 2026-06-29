@@ -1,0 +1,15 @@
+Test Case ID: TC-013
+
+Title:
+Verify that clicking the option Price(Low to High) in the Filter dropdown box reorganizes the product list properly
+
+Preconditions:
+1. User is successfully signed in.
+2. User in on the Product page.
+
+Test Steps:
+1. Open the the dropdown box for the Filter box
+2. Select Price(Low to High)
+
+Expected Result:
+1. Products are rearranged in order of price from lowest to highest
