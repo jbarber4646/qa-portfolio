@@ -11,4 +11,6 @@ Test Steps:
 1. Remove all items from the cart by clicking the Remove button within the item description on items already in the cart
 
 Expected Result:
-1. Cart should be empty
+1. No items are displayed in the cart.
+2. Cart badge is no longer displayed.
+3. Cart page indicates no items are present.
