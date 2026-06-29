@@ -4,10 +4,10 @@ Title:
 Verify checkout button appears when items exist
 
 Priority:
-
+High
 
 Type:
-
+Functional
 
 Preconditions:
 1. User is successfully signed in.
