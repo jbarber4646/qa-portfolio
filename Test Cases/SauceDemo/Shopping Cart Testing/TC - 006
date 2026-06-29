@@ -1,0 +1,14 @@
+Test Case ID: TC-006
+
+Title:
+Verify cart is empty after all items removed
+
+Preconditions:
+1. User is successfully signed in.
+2. User in on the Product page with items in the cart.
+
+Test Steps:
+1. Remove all items from the cart by clicking the Remove button within the item description on items already in the cart
+
+Expected Result:
+1. Cart should be empty
