@@ -11,4 +11,6 @@ Test Steps:
 1. Choose an item on the Cart page and click Remove
 
 Expected Result:
-1. Item is successfully removed from the cart
+1. Item is removed from the cart.
+2. Removed item is no longer displayed.
+3. Cart badge decreases by one.
