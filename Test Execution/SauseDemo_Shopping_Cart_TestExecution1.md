@@ -4,7 +4,7 @@
 |TC-003	       |Remove from Cart   |
 |TC-004	       |Cart count updates |
 |TC-005	       |Cart count updates |
-|TC-006	       |                	 |
+|TC-006	       |Cart count updates |
 |TC-007	       |                	 |
 |TC-008	       |                	 |
 |TC-009	       |                	 |
