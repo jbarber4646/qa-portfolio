@@ -4,10 +4,10 @@ Title:
 Verify that clicking the option Price(High to Low) in the Filter dropdown box reorganizes the product list properly
 
 Priority:
-
+Medium
 
 Type:
-
+Functional
 
 Preconditions:
 1. User is successfully signed in.
