@@ -3,6 +3,12 @@ Test Case ID: TC-006
 Title:
 Verify cart is empty after all items removed
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Product page with items in the cart.
