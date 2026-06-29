@@ -1,0 +1,14 @@
+Test Case ID: TC-002
+
+Title:
+Verify user can add multiple items to the cart
+
+Preconditions:
+1. User is successfully signed in.
+2. User in on the Products page.
+
+Test Steps:
+1. Choose multiple different items and click the Add to Cart button
+
+Expected Result:
+1. Items are successfully added to the cart
