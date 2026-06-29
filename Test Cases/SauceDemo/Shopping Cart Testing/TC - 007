@@ -8,7 +8,7 @@ Preconditions:
 2. User in on the Cart page with items in the cart.
 
 Test Steps:
-1. Check details of the items on the cart page and verify they match the details on the products page
+1. Check details (Verify: Product name, Price, Description, Quantity) of the items on the cart page and verify they match the details on the products page
 
 Expected Result:
 1. Details are the same
