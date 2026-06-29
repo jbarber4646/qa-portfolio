@@ -8,8 +8,8 @@
 |TC-007	       |Item Details       |
 |TC-008	       |Item Details       |
 |TC-009	       |Checkout Button    |
-|TC-010	       |                	 |
-|TC-011	       |                	 |
-|TC-012	       |                	 |
-|TC-013	       |          	       |
-|TC-014	       |          	       |
+|TC-010	       |Filter Dropdown    |
+|TC-011	       |Filter Dropdown    |
+|TC-012	       |Filter Dropdown    |
+|TC-013	       |Filter Dropdown    |
+|TC-014	       |Filter Dropdown    |
