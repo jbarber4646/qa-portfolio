@@ -3,6 +3,12 @@ Test Case ID: TC-010
 Title:
 Verify Checkout button is not clickable when cart is empty
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Cart page with no items in the cart.
