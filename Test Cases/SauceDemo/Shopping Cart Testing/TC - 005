@@ -3,6 +3,12 @@ Test Case ID: TC-005
 Title:
 Verify cart count decreases after removal
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Cart page with items in the cart.
