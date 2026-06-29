@@ -11,7 +11,7 @@ Functional
 
 Preconditions:
 1. User is successfully signed in.
-2. User in on the Product page.
+2. User in on the Products page.
 
 Test Steps:
 1. Open the the dropdown box for the Filter box
