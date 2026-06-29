@@ -1,1 +1,21 @@
-gere
+Test Case ID: TC-015
+
+Title:
+Verify that clicking the option Name(A to Z) in the Filter dropdown box reorganizes the product list properly
+
+Priority:
+Medium
+
+Type:
+Functional
+
+Preconditions:
+1. User is successfully signed in.
+2. User in on the Product page with Filter Price(High to Low) selected.
+
+Test Steps:
+1. Open the the dropdown box for the Filter box
+2. Select Name(A to Z)
+
+Expected Result:
+1. Products are rearranged in order of price from highest to lowest
