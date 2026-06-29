@@ -10,5 +10,7 @@ Preconditions:
 Test Steps:
 1. Choose multiple different items and click the Add to Cart button
 
-Expected Result:
-1. Items are successfully added to the cart
+Expected Result
+1. All selected items are added to the cart.
+2. The cart badge displays the correct number of items.
+3. Each selected item's button changes to Remove.
