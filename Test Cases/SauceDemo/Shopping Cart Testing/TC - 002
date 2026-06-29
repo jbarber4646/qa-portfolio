@@ -3,6 +3,12 @@ Test Case ID: TC-002
 Title:
 Verify user can add multiple items to the cart
 
+Priority:
+High
+
+Type:
+Functional (Positive)
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Products page.
