@@ -3,6 +3,12 @@ Test Case ID: TC-012
 Title:
 Verify that clicking the option Name(Z to A) in the Filter dropdown box reorganizes the product list properly
 
+Priority:
+
+
+Type:
+
+
 Preconditions:
 1. User is successfully signed in.
 2. User in on the Product page.
