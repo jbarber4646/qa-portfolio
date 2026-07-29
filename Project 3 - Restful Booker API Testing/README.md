@@ -1,1 +1,1 @@
-Restful Booker is an APi that allows bookings to be created, viewed, updated and deleted.
+Restful Booker is an APi that allows bookings to be created, viewed, updated and deleted. This project focuses on testing the endpoints.  
