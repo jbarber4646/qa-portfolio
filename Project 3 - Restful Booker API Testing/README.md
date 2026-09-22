@@ -12,4 +12,8 @@ Manual API Testing: For manual API testing, this project demonstrates that I can
 
 Bug Reporting: For bug reporting, this project demonstrates that I can verify and reproduce the unexpected behavior, confirm it doesn't match the documentation, and gather evidence to support my observations, then report it as a potential bug.
 
+Testing Approach
+
+I read the documentation for each endpoint, identified requirements and accepted parameters/data then used that to determine test data, including boundary conditions. I also used endpoint dependencies to help determine the testing order. I executed each test then compared the actual results with the expected results. I used the HTTP status codes and response data as part of the comparison to determine whether each test passed or failed.
+
 This is a work in progress README.  
