@@ -16,4 +16,8 @@ Testing Approach
 
 I read the documentation for each endpoint, identified requirements and accepted parameters/data then used that to determine test data, including boundary conditions. I also used endpoint dependencies to help determine the testing order. I executed each test then compared the actual results with the expected results. I used the HTTP status codes and response data as part of the comparison to determine whether each test passed or failed.
 
+Test Execution Pass/Fail Determination
+
+I will determine whether each test passes or fails by comparing the actual result against the expected result. If I receive an unexpected result, I will recheck the documentation to verify the expected result. If the result remains unexpected, I will rerun the test to confirm the result. If the unexpected result is confirmed, I will mark the test as failed and fill out a report for a potential bug.
+
 This is a work in progress README.  
