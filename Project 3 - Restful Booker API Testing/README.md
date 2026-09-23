@@ -20,4 +20,4 @@ Test Execution Pass/Fail Determination
 
 I will determine whether each test passes or fails by comparing the actual result against the expected result. If I receive an unexpected result, I will recheck the documentation to verify the expected result. If the result remains unexpected, I will rerun the test to confirm the result. If the unexpected result is confirmed, I will mark the test as failed and fill out a report for a potential bug.
 
-This is a work in progress README.  
+This is a work in progress README as I learn how to write a README file.
